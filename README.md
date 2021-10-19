@@ -61,3 +61,16 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 3- customer tablosunda bulunan last_name sütununa göre azalan yapılan sıralamada store_id 1 olmak koşuluyla ilk 4 veriyi sıralayınız.<br/>
 
 Kolay Gelsin.<br/>
+
+Ödev 6<br/>
+
+Merhabalar,<br/>
+
+Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.<br/>
+
+1- film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?<br/>
+2- film tablosunda bulunan filmlerden kaçtanesi 'C' karekteri ile başlar?<br/>
+3- film tablosunda bulunan filmlerden rental_rate değeri 0.99 a eşit olan en uzun (length) film kaç dakikadır?<br/>
+4- film tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır?<br/>
+
+Kolay Gelsin.<br/>
