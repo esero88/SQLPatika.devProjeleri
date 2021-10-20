@@ -87,3 +87,14 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 4- city tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıra country_id bilgisini ve şehir sayısını paylaşınız.<br/>
 
 Kolay Gelsin.<br/>
+
+Ödev 8<br/>
+
+Merhabalar,<br/>
+
+1- test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.<br/>
+2- oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.<br/>
+3- sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.<br/>
+4- sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.<br/>
+
+Kolay Gelsin.<br/>
