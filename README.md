@@ -98,3 +98,15 @@ Merhabalar,<br/>
 4- sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.<br/>
 
 Kolay Gelsin.<br/>
+
+Ödev 9<br/>
+
+Merhabalar,<br/>
+
+Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.<br/>
+
+1- city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.<br/>
+2- customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.<br/>
+3- customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.<br/>
+
+Kolay Gelsin.<br/>
