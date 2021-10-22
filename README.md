@@ -1,6 +1,6 @@
 # SQLPatika.devProjeleri
 
-## Kurs boyunca verilen ödevlerin açıklamarı aşağıda yer aldığı gibidir.
+## Ödev Açıklamaları
 
 __Ödev 1__<br/>
 
