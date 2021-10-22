@@ -1,6 +1,7 @@
 # SQLPatika.devProjeleri
 
-Ödev 1<br/>
+__Ödev 1__<br/>
+
 Merhabalar,<br/>
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.<br/>
@@ -13,7 +14,8 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 2<br/>
+__Ödev 2__<br/>
+
 Merhabalar,<br/>
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.<br/>
@@ -24,7 +26,8 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 3<br/>
+__Ödev 3__<br/>
+
 Merhabalar,<br/>
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.<br/>
@@ -36,7 +39,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 4<br/>
+__Ödev 4__<br/>
 
 Merhabalar,<br/>
 
@@ -50,7 +53,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 5<br/>
+__Ödev 5__<br/>
 
 Merhabalar,<br/>
 
@@ -62,7 +65,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 6<br/>
+__Ödev 6__<br/>
 
 Merhabalar,<br/>
 
@@ -75,7 +78,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 7<br/>
+__Ödev 7__<br/>
 
 Merhabalar,<br/>
 
@@ -88,7 +91,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 8<br/>
+__Ödev 8__<br/>
 
 Merhabalar,<br/>
 
@@ -99,7 +102,7 @@ Merhabalar,<br/>
 
 Kolay Gelsin.<br/>
 
-Ödev 9<br/>
+__Ödev 9__<br/>
 
 Merhabalar,<br/>
 
@@ -111,7 +114,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 
 Kolay Gelsin.<br/>
 
-Ödev 10<br/>
+__Ödev 10__<br/>
 
 Merhabalar,<br/>
 
